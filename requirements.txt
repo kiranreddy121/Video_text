@@ -1,0 +1,8 @@
+pandas
+moviepy
+pydub
+whisper
+transformers
+torch
+matplotlib
+seaborn
